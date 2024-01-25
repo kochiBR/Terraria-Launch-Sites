@@ -13,3 +13,6 @@ SLC-10 (Terrain only)
 
 Hawaii :3
 (Just Hawaii)
+
+Fictional
+FAM LSAM landing pad
